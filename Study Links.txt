@@ -6,4 +6,4 @@ https://docs.docker.com/get-started/overview/
 https://www.geeksforgeeks.org/difference-between-docker-image-and-container/
 https://www.geeksforgeeks.org/difference-between-virtual-machines-and-containers/
 https://www.geeksforgeeks.org/hypervisor/
-https://www.geeksforgeeks.org/hypervisor/
+https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
