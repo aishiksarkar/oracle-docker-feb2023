@@ -1,0 +1,5 @@
+https://docs.docker.com/get-started/overview/#:~:text=The%20Docker%20client%20(%20docker%20)%20is,with%20more%20than%20one%20daemon.
+https://www.site24x7.com/learn/containers/how-containers-work.html
+https://www.containiq.com/post/docker-alternatives
+https://www.dabbleofdevops.com/blog/docker-ecosystem
+https://docs.docker.com/get-started/overview/
