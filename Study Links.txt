@@ -7,3 +7,5 @@ https://www.geeksforgeeks.org/difference-between-docker-image-and-container/
 https://www.geeksforgeeks.org/difference-between-virtual-machines-and-containers/
 https://www.geeksforgeeks.org/hypervisor/
 https://www.geeksforgeeks.org/virtualization-cloud-computing-types/
+https://www.commandprompt.com/education/how-to-create-a-table-in-postgresql-perform-crud-operations/
+https://www.commandprompt.com/education/how-to-create-a-table-in-postgresql-perform-crud-operations/
